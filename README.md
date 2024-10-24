@@ -32,3 +32,5 @@ Click the "Split by Chapters" button to start splitting the file. The program wi
 Quantity-based Splitting:
 Click the "Split by Quantity" button and enter the desired number of parts.
 Click the "Start: Quantity Split" button to begin splitting the file. The program will divide the file into the specified number of parts, ensuring that sentences are not broken mid-way.
+
+![image](https://github.com/user-attachments/assets/05256930-5704-4cb5-9679-006bf5d89e9b)
